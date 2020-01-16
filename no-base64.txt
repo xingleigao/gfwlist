@@ -259,14 +259,6 @@ share.dmhy.org
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 
 !-----------------DNS Poisoning-----------------
-!---Netease---
-||music.126.net
-||music.163.com
-
-!---Tencent---
-||qqmusic.qq.com
-||y.qq.com
-||aqqmusic.tc.qq.com
 
 !---Amazon---
 !-||cdn-images.mailchimp.com
