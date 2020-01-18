@@ -285,6 +285,7 @@ share.dmhy.org
 ||bangdream.space
 ||behance.net
 ||dribbble.com
+||sharepoint.com
 ||apple.com
 ||bird.so
 ||zh.bitterwinter.org
