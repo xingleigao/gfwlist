@@ -3664,6 +3664,7 @@ http://cthlo.github.io/hktv
 hahaxixi.github.io
 |https://hahaxixi.github.io
 ||haoel.github.io
+||github.com
 !--|http://onionhacker.github.io
 ||rg3.github.io
 ||sikaozhe1997.github.io
