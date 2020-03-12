@@ -6661,8 +6661,8 @@
 # Tencent
 #(^|\.)qqmusic\.qq.com$
 #(^|\.)y\.qq.com$
-(^|\.)aqqmusic\.tc\.qq\.com$
-(^|\.)qq\.com$
+#(^|\.)aqqmusic\.tc\.qq\.com$
+#(^|\.)qq\.com$
 
 
 
