@@ -279,9 +279,9 @@
 (^|\.)myqcloud\.com$
 (^|\.)qlogo\.cn$
 (^|\.)qpic\.cn$
-(^|\.)qq\.com$
+
 (^|\.)qqmail\.com$
-(^|\.)qtimg\.cn$
+
 (^|\.)smtcdns\.com$
 (^|\.)soso\.com$
 (^|\.)tencent-cloud\.net$
@@ -577,6 +577,10 @@
 (^|\.)trimt-nsa\.gov\.tw$
 (^|\.)uluai\.com\.cn$
 (^|\.)yda\.gov\.tw$
+
+# Tencent
+(^|\.)qq\.com$
+(^|\.)qtimg\.cn$
 
 #**********************************************************************
 # 本地/局域网地址
