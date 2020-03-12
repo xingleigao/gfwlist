@@ -271,8 +271,7 @@
 (^|\.)steamstat\.us$
 
 # Tencent
-(^|\.)gtimg\.cn$
-(^|\.)gtimg\.com$
+
 (^|\.)idqqimg\.com$
 (^|\.)igamecj\.com$
 (^|\.)myapp\.com$
@@ -581,6 +580,13 @@
 # Tencent
 (^|\.)qq\.com$
 (^|\.)qtimg\.cn$
+(^|\.)gtimg\.cn$
+(^|\.)gtimg\.com$
+# Tencent
+(^|\.)qqmusic\.qq.com$
+(^|\.)y\.qq.com$
+(^|\.)aqqmusic\.tc\.qq\.com$
+(^|\.)qq\.com$
 
 #**********************************************************************
 # 本地/局域网地址
@@ -6657,11 +6663,7 @@
 (^|\.)music\.126\.net$
 (^|\.)music\.163\.com$
 
-# Tencent
-(^|\.)qqmusic\.qq.com$
-(^|\.)y\.qq.com$
-(^|\.)aqqmusic\.tc\.qq\.com$
-(^|\.)qq\.com$
+
 
 # 国外域名关键字
 (^|\.)\w*1e100\w*\.\w*$
