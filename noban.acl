@@ -6654,13 +6654,13 @@
 (^|\.)music\.126\.net$
 (^|\.)music\.163\.com$
 # Tencent
-(^|\.)qq\.com$
-(^|\.)gtimg\.cn$
+#(^|\.)qq\.com$
+#(^|\.)gtimg\.cn$
 (^|\.)gtimg\.cn$
 (^|\.)gtimg\.com$
 # Tencent
-(^|\.)qqmusic\.qq.com$
-(^|\.)y\.qq.com$
+#(^|\.)qqmusic\.qq.com$
+#(^|\.)y\.qq.com$
 (^|\.)aqqmusic\.tc\.qq\.com$
 (^|\.)qq\.com$
 
