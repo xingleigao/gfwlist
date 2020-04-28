@@ -263,6 +263,10 @@ share.dmhy.org
 ||music.126.net
 ||music.163.com
 
+!---Xiami---
+||xiami.net
+||xiami.com
+
 !---Tencent---
 ||qqmusic.qq.com
 ||y.qq.com
