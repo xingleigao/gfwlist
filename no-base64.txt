@@ -268,7 +268,7 @@ share.dmhy.org
 
 !---My List---
 ||behance.net
-||pixiv.org,
+||pixiv.org
 ||i.pximg.net
 
 ||43110.cf
