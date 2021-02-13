@@ -269,7 +269,7 @@ share.dmhy.org
 !---My List---
 ||behance.net
 ||pixiv.org
-||i.pximg.net
+||pximg.net
 
 ||43110.cf
 ||9gag.com
