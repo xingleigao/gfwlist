@@ -6647,8 +6647,10 @@
 (^|\.)tvb\.com$
 (^|\.)twdvd\.com$
 (^|\.)xn--i2ru8q2qg\.com$
-(^|\.)xn--i2ru8q2qg\.com$
+(^|\.)pixiv\.org$
 (^|\.)behance\.net$
+(^|\.)pximg\.net$
+
 
 # Netease
 (^|\.)music\.126\.net$
