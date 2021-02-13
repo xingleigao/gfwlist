@@ -270,6 +270,7 @@ share.dmhy.org
 ||behance.net
 ||pixiv.org
 ||pximg.net
+||javbangers.com
 
 ||43110.cf
 ||9gag.com
